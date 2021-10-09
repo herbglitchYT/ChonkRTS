@@ -5,11 +5,16 @@ project(Chonk)
 add_executable(${PROJECT_NAME}
     src/main.cpp
     src/game/game.cpp
+    src/game/player.cpp
 
     src/game/entities/handler.cpp
-    src/game/entities/production.cpp
+
+    src/game/entities/base/base.cpp
+
+    src/game/entities/mob/mob.cpp
 
     src/game/ui/handler.cpp
+    src/game/ui/selector.cpp
 )
 
 set (CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR})

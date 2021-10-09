@@ -1,4 +1,4 @@
-#include <ge/ge.hpp>
+#include <ge.hpp>
 #include "game/game.hpp"
 
 int main(int argc, char *argv[]){

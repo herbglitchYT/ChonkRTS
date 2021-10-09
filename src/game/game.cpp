@@ -8,7 +8,7 @@ namespace herbglitch {
 
     Game::~Game(){
         delete player;
-        SDL_DestroyTexture(spritesheet);
+        // SDL_DestroyTexture(spritesheet);
     }
 
     void Game::update(){

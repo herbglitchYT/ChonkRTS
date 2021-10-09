@@ -1,6 +1,6 @@
 #pragma once
 
-#include <ge/ge.hpp>
+#include <ge.hpp>
 
 namespace herbglitch {
     namespace ui {

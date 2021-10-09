@@ -1,5 +1,5 @@
 #pragma once
-#include <ge/ge.hpp>
+#include <ge.hpp>
 #include "ui/handler.hpp"
 #include "entities/handler.hpp"
 
