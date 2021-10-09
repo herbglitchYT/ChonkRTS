@@ -1,6 +1,6 @@
-# Satisfactory Tool
+# Chonk
 ## Description
-This tool is meant to be similar to [SaLT by AutumnFallStudios](https://autumnfallstudios.itch.io/salt) in the way that you can build out your factory like a blueprint. There will be the added functionality of being able to setup your building system to be similar to how it is in satisfactory (the hud, rotating with middle mouse, setting tools into the slots by pressing numbers, etc...).
+[C H O N K]
 
 ## Setup
 * mingw-w64
